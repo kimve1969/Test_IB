@@ -10,7 +10,7 @@
 #define new DEBUG_NEW
 #endif
 // Test from computer
-
+// Test 2 from computer
 // CTest_IBApp
 
 BEGIN_MESSAGE_MAP(CTest_IBApp, CWinApp)
