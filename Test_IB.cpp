@@ -12,6 +12,7 @@
 // Test from computer
 // Test 2 from computer
 // CTest_IBApp
+// Test from internet
 
 BEGIN_MESSAGE_MAP(CTest_IBApp, CWinApp)
 	ON_COMMAND(ID_HELP, &CWinApp::OnHelp)
